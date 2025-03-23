@@ -37,3 +37,4 @@ function highlightUndeliveredEmails() {
   emails.setBackgrounds(emailBackgrounds);
   emailGuesses.setBackgrounds(emailGuessBackgrounds);
 }
+
