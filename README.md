@@ -1,4 +1,4 @@
-# Educated Email Guesser & Undelivered Email Highlighter
+# Educated Email Guesser
 
 This Google Apps Script project automates email generation and validation within Google Sheets. It provides two key functionalities:
 
