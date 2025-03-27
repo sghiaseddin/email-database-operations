@@ -4,6 +4,9 @@ This Google Apps Script project automates email generation and validation within
 
 1. **Educated Email Guessing** - Generates possible email addresses based on full names, domain names, and a predefined pattern.
 2. **Undelivered Email Highlighter** - Highlights email addresses in red if they appear in a list of undelivered emails.
+3. **Listing Same-Domain Emails** - Extracts and lists emails from protected sheets within the same domain.
+4. **Get Business Description** - Request for business name using Google Custom Search JSON API, and get the title and description.
+5. **Get Business Name** - Request for exact business name using Ollama API on localhost.
 
 - Version: 1.0.0
 - @tag listing same domain with insights
